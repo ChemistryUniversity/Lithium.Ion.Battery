@@ -1,0 +1,1 @@
+- [Causes of lithium ion battery degradation and how to avoid them](https://youtu.be/arT3QwOOMIM)
