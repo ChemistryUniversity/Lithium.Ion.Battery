@@ -1,0 +1,1 @@
+- [EEVblog 1340 - New Tesla 4680 Battery Cell EXPLAINED](https://youtu.be/hbPKE62aM0U) by: EVblog
