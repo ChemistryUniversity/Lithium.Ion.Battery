@@ -3,3 +3,5 @@
 
 # Animation.
 - [How a Lithium Ion Battery Actually Works // Photorealistic // 16 Month Project](https://youtu.be/4-1psMHSpKs)
+- [How do Lithium-ion Batteries Work?](https://youtu.be/G5McJw4KkG8)
+@BranchEducation
